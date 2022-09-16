@@ -7,7 +7,7 @@ class Cuestionador:
         self.questions=[
             "¿Qué es el ALMICANTARAT?",
             "¿Dónde se encuentra el Zenit?",
-            "¿Cuántos órdenes exsisten en la taxonamia de sueles?"
+            "¿Cuántos órdenes exsisten en la taxonamia de suelos?"
         ]
 
         self.answers=[
